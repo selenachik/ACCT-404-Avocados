@@ -1,2 +1,3 @@
 # ACCT-404-Avocados
-JupyterLab and Data Files
+Data Files
+JupyterLab Notebooks: 1 for Visualization & 1 for verifying out AI's output
